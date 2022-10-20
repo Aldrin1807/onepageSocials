@@ -1,0 +1,60 @@
+body{
+    background-image: url(bg.svg);
+}
+#home {
+    height: 980px;
+	background-color: #fff;
+	border-bottom: 2px solid #dddddd;
+}
+
+.portrait{
+    text-align: center;
+    margin-top: 220px;
+}
+.portrait img{
+    max-width: 200px;
+    -webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+}
+.main_title {
+    margin-top: 30px;
+	text-align: center;
+}
+.main_title h1{
+    font-size: 60px;
+	line-height: 52px;
+	font-weight: 300;
+    font-family: 'Oswald', Arial, Helvetica, sans-serif;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+}
+.main_title h4{
+    font-weight: 300;
+	color: #4a4a4a;
+    font-family: 'Oswald', Arial, Helvetica, sans-serif;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+	margin-top: 5px;
+}
+
+
+/* Social Icons */
+.social_icons {
+	display: block;
+	text-align: center;
+	margin-top: 20px;
+}
+.social_icons ul{
+	width:100%;
+	margin:0;
+	padding:0;
+	outline: none;
+	margin-bottom:30px;
+}
+.social li{
+	display:inline;
+	margin-right:5px;
+}
+
+
+
+
